@@ -1,6 +1,7 @@
 <?php
 
 $var = "test";
+int $number = 12;
 echo $var;
 
 ?>
